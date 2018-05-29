@@ -1,0 +1,22 @@
+.contactForm {
+    padding: 30px;
+}
+
+input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #000;
+}
+
+.contactImage {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.contactItem {
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right: 5px;
+}
