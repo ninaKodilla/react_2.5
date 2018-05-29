@@ -16,3 +16,7 @@ input {
 .contactItem {
     margin-bottom: 20px;
 }
+
+label {
+    margin-right: 5px;
+}
